@@ -1,0 +1,4 @@
+npm init -y
+npm install express cors jsonwebtoken body-parser
+npm install cookie-parser
+node server.js
